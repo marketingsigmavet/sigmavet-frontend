@@ -14912,10 +14912,6 @@ div.demo img {
   }
 }
 .tp-brand-family a {
-  opacity: 0.1;
-  transition: all 0.4s ease;
-}
-.tp-brand-family a:hover {
   opacity: 1;
 }
 .tp-brand-border {
@@ -14947,11 +14943,6 @@ div.demo img {
   opacity: 1;
 }
 .tp-brand-travel img {
-  filter: saturate(0);
-  opacity: 0.2;
-  transition: all 0.4s ease;
-}
-.tp-brand-travel img:hover {
   filter: saturate(1);
   opacity: 1;
 }

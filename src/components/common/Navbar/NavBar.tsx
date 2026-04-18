@@ -45,7 +45,7 @@ export default function NavBar() {
                 <div className="col-xxl-2 col-xl-2 col-6">
                   <div className="tp-logo">
                     <a href="index.html">
-                      <img src="/assets/img/logo/logo-3.svg" alt="Sigmavet logo" />
+                      <img src="/assets/img/logo/logo-3.png" alt="Sigmavet logo" />
                     </a>
                   </div>
                 </div>

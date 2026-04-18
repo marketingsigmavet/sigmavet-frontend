@@ -80,7 +80,7 @@ export default function Footer() {
             <div className="row align-items-center">
               <div className="col-lg-3 mb-20">
                 <div className="tp-footer-travel-logo">
-                  <img src="/assets/img/logo/logo-whte2.svg" alt="Sigmavet logo" />
+                  <img src="/assets/img/logo/logo-whte2.png" alt="Sigmavet logo" />
                 </div>
               </div>
               <div className="col-lg-6 mb-20">
