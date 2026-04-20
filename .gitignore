@@ -1,2 +1,4 @@
 *.tif
 *.tiff
+node_modules/
+dist/
