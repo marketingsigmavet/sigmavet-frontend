@@ -208,7 +208,7 @@ li,
   --tp-border-1: #ececec;
   --tp-border-2: #e8e8e8;
   --tp-border-3: #eeeeee;
-  --tp-yellow-1: #ffc737;
+  --tp-yellow-1: #ffc737; /* fbe762 */
   --tp-yellow-2: #ff8c24;
   --tp-yellow-3: #ff673d;
   --tp-yellow-4: #fe744e;
@@ -231,7 +231,7 @@ li,
   --tp-theme-08: #da121f;
   --tp-theme-09: #e6f972;
   --tp-theme-10: #28cdc5;
-  --tp-theme-11: #63ab45;
+  --tp-theme-11: #6b3ba9; /* 63ab45 */
   --tp-theme-12: #f7921e;
   --tp-theme-13: #e93172;
   --tp-theme-14: #f5f2ef;
@@ -14912,10 +14912,6 @@ div.demo img {
   }
 }
 .tp-brand-family a {
-  opacity: 0.1;
-  transition: all 0.4s ease;
-}
-.tp-brand-family a:hover {
   opacity: 1;
 }
 .tp-brand-border {
@@ -14947,11 +14943,6 @@ div.demo img {
   opacity: 1;
 }
 .tp-brand-travel img {
-  filter: saturate(0);
-  opacity: 0.2;
-  transition: all 0.4s ease;
-}
-.tp-brand-travel img:hover {
   filter: saturate(1);
   opacity: 1;
 }

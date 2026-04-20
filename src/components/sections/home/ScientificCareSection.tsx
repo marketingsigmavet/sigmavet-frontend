@@ -23,7 +23,7 @@ const cards = [
       'We help pet stores grow through reliable supply, strong brand support and premium product portfolios.',
   },
   {
-    image: '/assets/img/service/travel/02.jpg',
+    image: '/assets/img/service/travel/04.jpg',
     icon: 'flaticon-health-insurance-2',
     title: 'Marketing & Activations',
     description:

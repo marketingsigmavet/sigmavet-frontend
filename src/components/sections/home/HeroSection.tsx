@@ -24,7 +24,7 @@ const slides = [
     secondaryLabel: 'Become a Dealer',
   },
   {
-    bg: '/assets/img/banner/travel/02.jpg',
+    bg: '/assets/img/banner/travel/03.jpg',
     subtitle: 'Strategic Growth Partner',
     title: (
       <>

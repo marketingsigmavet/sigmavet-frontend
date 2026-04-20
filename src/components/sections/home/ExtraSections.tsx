@@ -123,38 +123,45 @@ export default function ExtraSections() {
         <div className="container-fluid">
           <div className="row justify-content-center mb-30">
             <div className="col-lg-8 text-center">
-              <span className="tp-section-title-pre-family tp-section-title-pre-travel section-title mb-10 d-inline-block">
+              <br/>
+              <br/>
+              <br/>
+              <span className="tp-section-title-pre-family tp-section-title-pre-travel section-title mb-10 d-inline-block" style={{ fontSize: '30px' }}>
                 Our Brand Portfolio
               </span>
-              <h3 className="tp-section-title tp-section-title-dark-3 mb-0">
+              <br/>
+              <br/>
+              <br/>
+              <h3 className="tp-section-title tp-section-title-dark-3 mb-0" >
                 Representing globally trusted names in premium pet care
               </h3>
+              <br/>
             </div>
           </div>
           <div className="row row-cols-xl-5 row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 justify-content-center tp-brand-border">
             <div className="col">
               <div className="tp-brand-family tp-brand-travel text-center">
-                <a href="#"><img src="/assets/img/brand/travel/01.svg" alt="Premium pet care brand" /></a>
+                <a href="#"><img src="/assets/img/brand/travel/01.png" alt="Premium pet care brand" /></a>
               </div>
             </div>
             <div className="col">
               <div className="tp-brand-family tp-brand-travel text-center">
-                <a href="#"><img src="/assets/img/brand/travel/02.svg" alt="Veterinary care brand" /></a>
+                <a href="#"><img src="/assets/img/brand/travel/02.png" alt="Veterinary care brand" /></a>
               </div>
             </div>
             <div className="col">
               <div className="tp-brand-family tp-brand-travel text-center">
-                <a href="#"><img src="/assets/img/brand/travel/03.svg" alt="Nutrition brand" /></a>
+                <a href="#"><img src="/assets/img/brand/travel/03.png" alt="Nutrition brand" /></a>
               </div>
             </div>
             <div className="col">
               <div className="tp-brand-family tp-brand-travel text-center">
-                <a href="#"><img src="/assets/img/brand/travel/04.svg" alt="Wellness brand" /></a>
+                <a href="#"><img src="/assets/img/brand/travel/04.png" alt="Wellness brand" /></a>
               </div>
             </div>
             <div className="col">
               <div className="tp-brand-family tp-brand-travel text-center">
-                <a href="#"><img src="/assets/img/brand/travel/05.svg" alt="Pet care solutions brand" /></a>
+                <a href="#"><img src="/assets/img/brand/travel/05.png" alt="Pet care solutions brand" /></a>
               </div>
             </div>
           </div>
